@@ -29,5 +29,6 @@ In conclusion, Cisco Packet Tracer stands as a versatile and indispensable tool 
 ![image](https://github.com/yams714/Configure-devices-using-cisco-packet-tracer/assets/144628548/fcf91954-3857-4ecd-80d6-0a769c3ef0c3)
 
 
+![image](https://github.com/yams714/Configure-devices-using-cisco-packet-tracer/assets/144628548/eb0982b8-252d-427f-a8c7-afa6ac474d15)
 
 
